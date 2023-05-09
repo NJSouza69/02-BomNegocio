@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+@media screen and (max-width: 520px){
+    .box {
+        background-color: green;
+        height: 50px;
+        width: 50px;
+        margin: 10px;
+    };
+    
+}

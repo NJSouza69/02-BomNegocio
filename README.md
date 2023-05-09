@@ -1,4 +1,4 @@
 # 02-BomNegocio
-Cursos Gratuitos fornecidos pela Prefeitura de Curitiba
+Cursos fornecidos pela Prefeitura de Curitiba
 
 -
